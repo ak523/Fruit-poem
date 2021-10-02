@@ -1,5 +1,6 @@
-Fruits are healthy to eat
+Fruits and veggies are healthy to eat
 I eat apple
 I eat banana
 I eat kiwi
 I eat strawberry
+I eat potato

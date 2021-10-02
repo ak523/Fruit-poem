@@ -2,3 +2,4 @@ Fruits are healthy to eat
 I eat apple
 I eat banana
 I eat kiwi
+I eat strawberry
